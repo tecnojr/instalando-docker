@@ -3,7 +3,7 @@
 Para seguir este documento/tutorial, você precisará do seguinte: 
 
 1. Uma distro Linux, no caso a Ubuntu 18.04, incluindo um usuário sudo não-root e um firewall.
-2. Uma conta no [Docker Hub]() se você deseja usar sua próprias imagens e enviá-las ao Docker Hub.
+2. Uma conta no [Docker Hub](https://hub.docker.com/) se você deseja usar sua próprias imagens e enviá-las ao Docker Hub.
 
 ## Instalando o Docker 
 
